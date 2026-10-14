@@ -2,7 +2,7 @@
 
 PagoVoz anuncia en voz alta cada pago que recibes en tu caja (Bancolombia / Nequi).
 
-**Versión actual: 3.4** (compilado sin compresión UPX para evitar falsos positivos de antivirus).
+**Versión actual: 3.5** (compilado sin compresión UPX).
 
 - **Descargar PagoVoz.exe (Windows):** https://github.com/Hilderrestrepo/pagovoz-descargas/raw/main/PagoVoz.exe
 - **Guía de instalación y uso (PDF):** https://github.com/Hilderrestrepo/pagovoz-descargas/raw/main/PagoVoz_Guia.pdf
