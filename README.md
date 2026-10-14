@@ -2,7 +2,7 @@
 
 PagoVoz anuncia en voz alta cada pago que recibes en tu caja (Bancolombia / Nequi).
 
-**Versión actual: 3.3** (sube los pagos del correo a la nube para el botón Sincronizar pagos del celular).
+**Versión actual: 3.4** (compilado sin compresión UPX para evitar falsos positivos de antivirus).
 
 - **Descargar PagoVoz.exe (Windows):** https://github.com/Hilderrestrepo/pagovoz-descargas/raw/main/PagoVoz.exe
 - **Guía de instalación y uso (PDF):** https://github.com/Hilderrestrepo/pagovoz-descargas/raw/main/PagoVoz_Guia.pdf
